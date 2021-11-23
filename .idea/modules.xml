@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProjectAS.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProjectAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirstProjectAS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirstProjectAS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/celsiustofahrenheit/FirstProjectAS.app.celsiustofahrenheit.iml" filepath="$PROJECT_DIR$/.idea/modules/app/celsiustofahrenheit/FirstProjectAS.app.celsiustofahrenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/sendinputtext/FirstProjectAS.app.sendinputtext.iml" filepath="$PROJECT_DIR$/.idea/modules/app/sendinputtext/FirstProjectAS.app.sendinputtext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/showinputtext/FirstProjectAS.app.showinputtext.iml" filepath="$PROJECT_DIR$/.idea/modules/app/showinputtext/FirstProjectAS.app.showinputtext.iml" />
+    </modules>
+  </component>
+</project>

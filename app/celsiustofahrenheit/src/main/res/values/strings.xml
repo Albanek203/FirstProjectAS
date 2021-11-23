@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CelsiusToFahrenheit</string>
+    <string name="enter_temperature">Enter temperature:</string>
+    <string name="convert">Convert</string>
+</resources>
